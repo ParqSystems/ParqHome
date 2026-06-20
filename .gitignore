@@ -1,0 +1,10 @@
+Home Automation/home_automation_backend/node_modules/
+Home Automation/home_automation_backend/.env
+
+Home Automation/home_automation_frontend/node_modules/
+Home Automation/home_automation_frontend/.env
+Home Automation/home_automation_frontend/.expo/
+Home Automation/home_automation_frontend/.expo-shared/
+Home Automation/home_automation_backend/client_secret_*.json
+
+*.log
